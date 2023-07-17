@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrieldobal.
-- 👀 I’m interested in Web/Mobile Development & Design.
+- 👀 I’m interested in Web/Mobile Development & UX Design.
 - 🌱 I’m currently learning Kotlin & JavaScript.
 - 💞️ I’m looking to collaborate on any development/design proyect.
 - 📫 How to reach me: @adrieldobal (Twitter).
