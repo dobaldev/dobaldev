@@ -2,7 +2,6 @@
 
 - 👀 I’m Fullstack Developer, with prefference for Web/Mobile Development & UX Design.
 - 🌱 I’m currently job in React, MySQL, Node, Flutter, Figma.
-- 💞️ I’m looking to collaborate on any development/design project.
 - 📫 How to reach me: @adrieldobal (Twitter).
 
 <!---
