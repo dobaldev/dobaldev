@@ -1,7 +1,7 @@
 👋 HELLO, I'm @adrieldobal.
 
-- 👀 I’m interested in Fullstack development, with prefference for Web/Mobile Development & UX Design.
-- 🌱 I’m currently learning React, Figma, Flutter.
+- 👀 I’m Fullstack Developer, with prefference for Web/Mobile Development & UX Design.
+- 🌱 I’m currently job in React, Node, Figma, Flutter.
 - 💞️ I’m looking to collaborate on any development/design proyect.
 - 📫 How to reach me: @adrieldobal (Twitter).
 
