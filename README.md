@@ -2,7 +2,7 @@
 
 - 👀 I’m Fullstack Developer, with prefference for Web/Mobile Development & UX Design.
 - 🌱 I’m currently job in React, MySQL, Node, Flutter, Figma.
-- 📫 How to reach me: @adrieldobal (Twitter).
+- 📫 How to reach me: @dobaldev (Twitter).
 
 <!---
 adrieldobal/adrieldobal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
