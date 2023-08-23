@@ -1,7 +1,7 @@
 👋 HELLO, I'm @dobaldev.
 
 - 👀 I’m Fullstack Developer, with prefference for Web/Mobile Development & UX Design.
-- 🌱 I’m currently job in React, MySQL, Node, Flutter, Figma.
+- 🌱 I’m currently job in React, Node, Python, Flutter, Figma.
 - 📫 How to reach me: @dobaldev (Twitter).
 
 <!---
