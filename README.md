@@ -2,7 +2,7 @@
 
 - 👀 I’m Fullstack Developer, with prefference for Web/Mobile Development & UX Design.
 - 🌐 I’m currently job in React, Node, Python, Flutter, Figma and any other language.
-- 🎯 Excited about: Cibersecurity, Blockchain, Marketing and Business.
+- 🎯 Excited about: Cibersecurity, Blockchain, and Business.
 - 📫 How to reach me: @dobaldev (Twitter).
 
 <!---
