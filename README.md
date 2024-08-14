@@ -1,8 +1,8 @@
 👋 HELLO, I'm @dobaldev.
 
-- 👀 I’m Freelance Developer, with prefference for Web/Mobile Development.
-- 🌐 I’m currently job in React, Node, Python, Flutter, and any other language.
-- 🎯 Excited about: Cibersecurity, Blockchain, and Web 3.0.
+- 👀 I’m Freelance Developer, with prefference for React Development.
+- 🌐 I’m currently job in React, Node, Python, and any other language / franework.
+- 🎯 Excited about: Cibersecurity.
 - 📫 How to reach me: @dobaldev (Twitter).
 
 <!---
