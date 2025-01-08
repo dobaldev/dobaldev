@@ -1,7 +1,7 @@
 👋 HELLO, I'm @dobaldev.
 
-- 👀 I’m Freelance Developer, with prefference for React Development.
-- 🌐 I’m currently job in React, Node, Python, and any other language / franework.
+- 👀 I’m Developer.
+- 🌐 I’m currently job in Python.
 - 🎯 Excited about: Cibersecurity.
 - 📫 How to reach me: @dobaldev (Twitter).
 
