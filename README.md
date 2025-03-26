@@ -59,8 +59,8 @@ Sigo de cerca el ecosistema Web3, Smart Contracts y tecnologías descentralizada
 ### 📫 ¿Hablamos?
 Estoy abierto a colaborar en proyectos interesantes, propuestas freelance o nuevas oportunidades. ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-dobal-🇦🇷-93799b259/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrieldobal@gmail.com)
 
 ---
 
